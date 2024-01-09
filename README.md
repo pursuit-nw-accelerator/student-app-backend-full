@@ -34,3 +34,11 @@ http://localhost:8000?error=Oh%20noes
 ```
 Will return a 500 response with the `Oh noes` as the error message.
 
+You can also use both at once! For example:
+
+```
+http://localhost:8000?error=whoops&delay=5000
+```
+This will cause a 5 second delay, then return a 500 response in the format: `{ error: "whoops" }`
+
+
