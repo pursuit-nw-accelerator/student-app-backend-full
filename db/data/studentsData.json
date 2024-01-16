@@ -1,255 +1,529 @@
 {
     "students": [
-      {
-        "id": 1,
-        "city": "Fushë-Muhurr",
-        "company": "Yadel",
-        "email": "iorton0@imdb.com",
-        "firstName": "Ingaberg",
-        "lastName": "Orton",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasdictablanditiis.jpg",
-        "skill": "Oracle"
-      },
-      {
-        "id": 2,
-        "city": "Sanghan",
-        "company": "Avamm",
-        "email": "cboards1@weibo.com",
-        "firstName": "Clarke",
-        "lastName": "Boards",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasautreprehenderit.jpg",
-        "skill": "Sports"
-      },
-      {
-        "id": 3,
-        "city": "Kugesi",
-        "company": "Skalith",
-        "email": "lromanet2@wired.com",
-        "firstName": "Laurens",
-        "lastName": "Romanet",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/aspernaturnonsapiente.jpg",
-        "skill": "Employee Handbooks"
-      },
-      {
-        "id": 4,
-        "city": "Krajan",
-        "company": "Mybuzz",
-        "email": "bskitt3@aboutads.info",
-        "firstName": "Berti",
-        "lastName": "Skitt",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/autautdeserunt.jpg",
-        "skill": "Nutrition Education"
-      },
-      {
-        "id": 5,
-        "city": "Huiqi",
-        "company": "Avavee",
-        "email": "msummerley4@craigslist.org",
-        "firstName": "Mureil",
-        "lastName": "Summerley",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/consequaturdelectusquis.jpg",
-        "skill": "ISO 14971"
-      },
-      {
-        "id": 6,
-        "city": "Jianghong",
-        "company": "Twinte",
-        "email": "rcoryndon5@cargocollective.com",
-        "firstName": "Robbyn",
-        "lastName": "Coryndon",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/autautdeserunt.jpg",
-        "skill": "Cinema 4D"
-      },
-      {
-        "id": 7,
-        "city": "Sanxi",
-        "company": "Buzzster",
-        "email": "seykel6@examiner.com",
-        "firstName": "Sheena",
-        "lastName": "Eykel",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/utquamut.jpg",
-        "skill": "Ulead VideoStudio"
-      },
-      {
-        "id": 8,
-        "city": "Huancheng",
-        "company": "Edgeblab",
-        "email": "mewen7@ycombinator.com",
-        "firstName": "Minnnie",
-        "lastName": "Ewen",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/nesciuntrerumlibero.jpg",
-        "skill": "Vulcan"
-      },
-      {
-        "id": 9,
-        "city": "Luoxiong",
-        "company": "Fadeo",
-        "email": "riban8@hubpages.com",
-        "firstName": "Rory",
-        "lastName": "Iban",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/autemporroplaceat.jpg",
-        "skill": "EE4"
-      },
-      {
-        "id": 10,
-        "city": "Toulon",
-        "company": "Yakidoo",
-        "email": "lroxby9@cam.ac.uk",
-        "firstName": "Lenna",
-        "lastName": "Roxby",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/doloribusquitempora.jpg",
-        "skill": "LPS"
-      },
-      {
-        "id": 11,
-        "city": "Lazo",
-        "company": "Photolist",
-        "email": "rfitzalana@parallels.com",
-        "firstName": "Rosalynd",
-        "lastName": "FitzAlan",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/utquamut.jpg",
-        "skill": "Geography"
-      },
-      {
-        "id": 12,
-        "city": "Bichura",
-        "company": "Babblestorm",
-        "email": "srapellib@adobe.com",
-        "firstName": "Stephanie",
-        "lastName": "Rapelli",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/enimpariaturoptio.jpg",
-        "skill": "Identity Management"
-      },
-      {
-        "id": 13,
-        "city": "Chvalšiny",
-        "company": "Mynte",
-        "email": "mmacdirmidc@plala.or.jp",
-        "firstName": "Maire",
-        "lastName": "MacDirmid",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/aspernaturnonsapiente.jpg",
-        "skill": "Outdoor Advertising"
-      },
-      {
-        "id": 14,
-        "city": "Itaparica",
-        "company": "Photospace",
-        "email": "nshepherdd@desdev.cn",
-        "firstName": "Nicoline",
-        "lastName": "Shepherd",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/nonipsaet.jpg",
-        "skill": "Amazon VPC"
-      },
-      {
-        "id": 15,
-        "city": "Praia da Vitória",
-        "company": "Vitz",
-        "email": "ythornse@github.com",
-        "firstName": "Yoshi",
-        "lastName": "Thorns",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasdictablanditiis.jpg",
-        "skill": "DMR"
-      },
-      {
-        "id": 16,
-        "city": "Sambir",
-        "company": "Twitterwire",
-        "email": "mtothef@shutterfly.com",
-        "firstName": "Marna",
-        "lastName": "Tothe",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/utquamut.jpg",
-        "skill": "PFI"
-      },
-      {
-        "id": 17,
-        "city": "Sarulla",
-        "company": "Blogpad",
-        "email": "okearyg@g.co",
-        "firstName": "Orelia",
-        "lastName": "Keary",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/enimpariaturoptio.jpg",
-        "skill": "General Surgery"
-      },
-      {
-        "id": 18,
-        "city": "Ochakovo-Matveyevskoye",
-        "company": "Mydeo",
-        "email": "mswaith@cafepress.com",
-        "firstName": "Moses",
-        "lastName": "Swait",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/velitnonquibusdam.jpg",
-        "skill": "Sales Tax"
-      },
-      {
-        "id": 19,
-        "city": "Youxi Chengguanzhen",
-        "company": "Avaveo",
-        "email": "fnusseyi@skyrock.com",
-        "firstName": "Fonsie",
-        "lastName": "Nussey",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/remtemporavelit.jpg",
-        "skill": "Urbanism"
-      },
-      {
-        "id": 20,
-        "city": "Limoges",
-        "company": "Tazzy",
-        "email": "srydingsj@phoca.cz",
-        "firstName": "Skelly",
-        "lastName": "Rydings",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/etporroalias.jpg",
-        "skill": "IFTA"
-      },
-      {
-        "id": 21,
-        "city": "Łobżenica",
-        "company": "Quatz",
-        "email": "obrennekek@yellowbook.com",
-        "firstName": "Olly",
-        "lastName": "Brenneke",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/velitnonquibusdam.jpg",
-        "skill": "ATM Networks"
-      },
-      {
-        "id": 22,
-        "city": "Divo",
-        "company": "Gigazoom",
-        "email": "nbadwickl@nifty.com",
-        "firstName": "Norby",
-        "lastName": "Badwick",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/delenitiestdolorum.jpg",
-        "skill": "Media Relations"
-      },
-      {
-        "id": 23,
-        "city": "Sortavala",
-        "company": "Eamia",
-        "email": "mmichiem@nifty.com",
-        "firstName": "Melody",
-        "lastName": "Michie",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/sitlaborecorrupti.jpg",
-        "skill": "PC Games"
-      },
-      {
-        "id": 24,
-        "city": "Taupo",
-        "company": "Midel",
-        "email": "jwillougheyn@psu.edu",
-        "firstName": "Janice",
-        "lastName": "Willoughey",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/dolordoloremassumenda.jpg",
-        "skill": "Kondor+"
-      },
-      {
-        "id": 25,
-        "city": "Krajandadapmulyo",
-        "company": "Wikibox",
-        "email": "ggallymoreo@mashable.com",
-        "firstName": "Geraldine",
-        "lastName": "Gallymore",
-        "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/sitlaborecorrupti.jpg",
-        "skill": "WTL"
-      }
+        {
+            "id": 1,
+            "first_name": "Ingaberg",
+            "last_name": "Orton",
+            "city": "Fushë-Muhurr",
+            "company": "Yadel",
+            "email": "iorton0@imdb.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasdictablanditiis.jpg",
+            "skill": "Oracle",
+            "average_grade": "88.88",
+            "grades": [
+                78,
+                100,
+                92,
+                86,
+                89,
+                88,
+                91,
+                87
+            ]
+        },
+        {
+            "id": 2,
+            "first_name": "Clarke",
+            "last_name": "Boards",
+            "city": "Sanghan",
+            "company": "Avamm",
+            "email": "cboards1@weibo.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasautreprehenderit.jpg",
+            "skill": "Sports",
+            "average_grade": "87.25",
+            "grades": [
+                75,
+                89,
+                95,
+                93,
+                99,
+                82,
+                89,
+                76
+            ]
+        },
+        {
+            "id": 3,
+            "first_name": "Laurens",
+            "last_name": "Romanet",
+            "city": "Kugesi",
+            "company": "Skalith",
+            "email": "lromanet2@wired.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/aspernaturnonsapiente.jpg",
+            "skill": "Employee Handbooks",
+            "average_grade": "85.75",
+            "grades": [
+                88,
+                90,
+                79,
+                82,
+                81,
+                99,
+                94,
+                73
+            ]
+        },
+        {
+            "id": 4,
+            "first_name": "Berti",
+            "last_name": "Skitt",
+            "city": "Krajan",
+            "company": "Mybuzz",
+            "email": "bskitt3@aboutads.info",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/autautdeserunt.jpg",
+            "skill": "Nutrition Education",
+            "average_grade": "89.75",
+            "grades": [
+                88,
+                93,
+                92,
+                81,
+                95,
+                98,
+                77,
+                94
+            ]
+        },
+        {
+            "id": 5,
+            "first_name": "Mureil",
+            "last_name": "Summerley",
+            "city": "Huiqi",
+            "company": "Avavee",
+            "email": "msummerley4@craigslist.org",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/consequaturdelectusquis.jpg",
+            "skill": "ISO 14971",
+            "average_grade": "82.25",
+            "grades": [
+                71,
+                81,
+                72,
+                92,
+                79,
+                82,
+                91,
+                90
+            ]
+        },
+        {
+            "id": 6,
+            "first_name": "Robbyn",
+            "last_name": "Coryndon",
+            "city": "Jianghong",
+            "company": "Twinte",
+            "email": "rcoryndon5@cargocollective.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/autautdeserunt.jpg",
+            "skill": "Cinema 4D",
+            "average_grade": "89.88",
+            "grades": [
+                97,
+                92,
+                72,
+                99,
+                92,
+                92,
+                79,
+                96
+            ]
+        },
+        {
+            "id": 7,
+            "first_name": "Sheena",
+            "last_name": "Eykel",
+            "city": "Sanxi",
+            "company": "Buzzster",
+            "email": "seykel6@examiner.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/utquamut.jpg",
+            "skill": "Ulead VideoStudio",
+            "average_grade": "86.75",
+            "grades": [
+                74,
+                95,
+                75,
+                95,
+                85,
+                97,
+                88,
+                85
+            ]
+        },
+        {
+            "id": 8,
+            "first_name": "Minnnie",
+            "last_name": "Ewen",
+            "city": "Huancheng",
+            "company": "Edgeblab",
+            "email": "mewen7@ycombinator.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/nesciuntrerumlibero.jpg",
+            "skill": "Vulcan",
+            "average_grade": "89.25",
+            "grades": [
+                80,
+                100,
+                97,
+                78,
+                99,
+                99,
+                76,
+                85
+            ]
+        },
+        {
+            "id": 9,
+            "first_name": "Rory",
+            "last_name": "Iban",
+            "city": "Luoxiong",
+            "company": "Fadeo",
+            "email": "riban8@hubpages.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/autemporroplaceat.jpg",
+            "skill": "EE4",
+            "average_grade": "87.50",
+            "grades": [
+                70,
+                100,
+                75,
+                96,
+                83,
+                90,
+                94,
+                92
+            ]
+        },
+        {
+            "id": 10,
+            "first_name": "Lenna",
+            "last_name": "Roxby",
+            "city": "Toulon",
+            "company": "Yakidoo",
+            "email": "lroxby9@cam.ac.uk",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/doloribusquitempora.jpg",
+            "skill": "LPS",
+            "average_grade": "82.88",
+            "grades": [
+                70,
+                99,
+                81,
+                83,
+                78,
+                95,
+                81,
+                76
+            ]
+        },
+        {
+            "id": 11,
+            "first_name": "Rosalynd",
+            "last_name": "FitzAlan",
+            "city": "Lazo",
+            "company": "Photolist",
+            "email": "rfitzalana@parallels.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/utquamut.jpg",
+            "skill": "Geography",
+            "average_grade": "90.25",
+            "grades": [
+                98,
+                93,
+                78,
+                87,
+                99,
+                89,
+                97,
+                81
+            ]
+        },
+        {
+            "id": 12,
+            "first_name": "Stephanie",
+            "last_name": "Rapelli",
+            "city": "Bichura",
+            "company": "Babblestorm",
+            "email": "srapellib@adobe.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/enimpariaturoptio.jpg",
+            "skill": "Identity Management",
+            "average_grade": "85.00",
+            "grades": [
+                83,
+                97,
+                70,
+                96,
+                75,
+                98,
+                90,
+                71
+            ]
+        },
+        {
+            "id": 13,
+            "first_name": "Maire",
+            "last_name": "MacDirmid",
+            "city": "Chvalšiny",
+            "company": "Mynte",
+            "email": "mmacdirmidc@plala.or.jp",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/aspernaturnonsapiente.jpg",
+            "skill": "Outdoor Advertising",
+            "average_grade": "85.38",
+            "grades": [
+                87,
+                73,
+                85,
+                98,
+                73,
+                95,
+                75,
+                97
+            ]
+        },
+        {
+            "id": 14,
+            "first_name": "Nicoline",
+            "last_name": "Shepherd",
+            "city": "Itaparica",
+            "company": "Photospace",
+            "email": "nshepherdd@desdev.cn",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/nonipsaet.jpg",
+            "skill": "Amazon VPC",
+            "average_grade": "85.38",
+            "grades": [
+                90,
+                73,
+                88,
+                95,
+                71,
+                100,
+                80,
+                86
+            ]
+        },
+        {
+            "id": 15,
+            "first_name": "Yoshi",
+            "last_name": "Thorns",
+            "city": "Praia da Vitória",
+            "company": "Vitz",
+            "email": "ythornse@github.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasdictablanditiis.jpg",
+            "skill": "DMR",
+            "average_grade": "87.00",
+            "grades": [
+                78,
+                78,
+                96,
+                92,
+                80,
+                82,
+                91,
+                99
+            ]
+        },
+        {
+            "id": 16,
+            "first_name": "Marna",
+            "last_name": "Tothe",
+            "city": "Sambir",
+            "company": "Twitterwire",
+            "email": "mtothef@shutterfly.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/utquamut.jpg",
+            "skill": "PFI",
+            "average_grade": "82.50",
+            "grades": [
+                88,
+                74,
+                76,
+                89,
+                75,
+                97,
+                75,
+                86
+            ]
+        },
+        {
+            "id": 17,
+            "first_name": "Orelia",
+            "last_name": "Keary",
+            "city": "Sarulla",
+            "company": "Blogpad",
+            "email": "okearyg@g.co",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/enimpariaturoptio.jpg",
+            "skill": "General Surgery",
+            "average_grade": "84.13",
+            "grades": [
+                78,
+                92,
+                86,
+                80,
+                82,
+                95,
+                76,
+                84
+            ]
+        },
+        {
+            "id": 18,
+            "first_name": "Moses",
+            "last_name": "Swait",
+            "city": "Ochakovo-Matveyevskoye",
+            "company": "Mydeo",
+            "email": "mswaith@cafepress.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/velitnonquibusdam.jpg",
+            "skill": "Sales Tax",
+            "average_grade": "84.50",
+            "grades": [
+                84,
+                82,
+                92,
+                74,
+                87,
+                98,
+                86,
+                73
+            ]
+        },
+        {
+            "id": 19,
+            "first_name": "Fonsie",
+            "last_name": "Nussey",
+            "city": "Youxi Chengguanzhen",
+            "company": "Avaveo",
+            "email": "fnusseyi@skyrock.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/remtemporavelit.jpg",
+            "skill": "Urbanism",
+            "average_grade": "91.50",
+            "grades": [
+                100,
+                75,
+                84,
+                91,
+                100,
+                97,
+                98,
+                87
+            ]
+        },
+        {
+            "id": 20,
+            "first_name": "Skelly",
+            "last_name": "Rydings",
+            "city": "Limoges",
+            "company": "Tazzy",
+            "email": "srydingsj@phoca.cz",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/etporroalias.jpg",
+            "skill": "IFTA",
+            "average_grade": "85.13",
+            "grades": [
+                89,
+                81,
+                77,
+                93,
+                96,
+                96,
+                70,
+                79
+            ]
+        },
+        {
+            "id": 21,
+            "first_name": "Olly",
+            "last_name": "Brenneke",
+            "city": "Łobżenica",
+            "company": "Quatz",
+            "email": "obrennekek@yellowbook.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/velitnonquibusdam.jpg",
+            "skill": "ATM Networks",
+            "average_grade": "81.13",
+            "grades": [
+                81,
+                74,
+                77,
+                82,
+                74,
+                88,
+                86,
+                87
+            ]
+        },
+        {
+            "id": 22,
+            "first_name": "Norby",
+            "last_name": "Badwick",
+            "city": "Divo",
+            "company": "Gigazoom",
+            "email": "nbadwickl@nifty.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/delenitiestdolorum.jpg",
+            "skill": "Media Relations",
+            "average_grade": "88.00",
+            "grades": [
+                73,
+                99,
+                91,
+                92,
+                85,
+                96,
+                95,
+                73
+            ]
+        },
+        {
+            "id": 23,
+            "first_name": "Melody",
+            "last_name": "Michie",
+            "city": "Sortavala",
+            "company": "Eamia",
+            "email": "mmichiem@nifty.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/sitlaborecorrupti.jpg",
+            "skill": "PC Games",
+            "average_grade": "84.88",
+            "grades": [
+                100,
+                83,
+                76,
+                71,
+                93,
+                95,
+                73,
+                88
+            ]
+        },
+        {
+            "id": 24,
+            "first_name": "Janice",
+            "last_name": "Willoughey",
+            "city": "Taupo",
+            "company": "Midel",
+            "email": "jwillougheyn@psu.edu",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/dolordoloremassumenda.jpg",
+            "skill": "Kondor+",
+            "average_grade": "84.38",
+            "grades": [
+                71,
+                80,
+                83,
+                99,
+                91,
+                95,
+                81,
+                75
+            ]
+        },
+        {
+            "id": 25,
+            "first_name": "Geraldine",
+            "last_name": "Gallymore",
+            "city": "Krajandadapmulyo",
+            "company": "Wikibox",
+            "email": "ggallymoreo@mashable.com",
+            "pic": "https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/sitlaborecorrupti.jpg",
+            "skill": "WTL",
+            "average_grade": "85.13",
+            "grades": [
+                97,
+                71,
+                89,
+                85,
+                85,
+                87,
+                92,
+                75
+            ]
+        }
     ]
-  }
-  
+}
