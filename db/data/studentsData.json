@@ -51,6 +51,32 @@
                     "score": 87,
                     "student_id": 1
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 1,
+                    "title": "Spanish 1",
+                    "end_date": null,
+                    "course_id": 1,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 1
+                },
+                {
+                    "id": 2,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 1
+                },
+                {
+                    "id": 3,
+                    "title": "N&W Accelerator",
+                    "end_date": "2023-01-24T17:16:27.877212+00:00",
+                    "course_id": 3,
+                    "start_date": "2022-01-24T17:16:27.877212+00:00",
+                    "student_id": 1
+                }
             ]
         },
         {
@@ -102,6 +128,32 @@
                 {
                     "id": 16,
                     "score": 76,
+                    "student_id": 2
+                }
+            ],
+            "enrollments": [
+                {
+                    "id": 4,
+                    "title": "Spanish 1",
+                    "end_date": null,
+                    "course_id": 1,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 2
+                },
+                {
+                    "id": 5,
+                    "title": "JavaScript 101",
+                    "end_date": null,
+                    "course_id": 2,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 2
+                },
+                {
+                    "id": 6,
+                    "title": "N&W Accelerator",
+                    "end_date": "2022-01-24T17:16:27.877212+00:00",
+                    "course_id": 3,
+                    "start_date": "2021-01-24T17:16:27.877212+00:00",
                     "student_id": 2
                 }
             ]
@@ -157,6 +209,24 @@
                     "score": 73,
                     "student_id": 3
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 7,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 3
+                },
+                {
+                    "id": 8,
+                    "title": "Spanish 1",
+                    "end_date": "2024-01-10T17:16:27.877212+00:00",
+                    "course_id": 1,
+                    "start_date": "2023-07-24T17:16:27.877212+00:00",
+                    "student_id": 3
+                }
             ]
         },
         {
@@ -208,6 +278,16 @@
                 {
                     "id": 32,
                     "score": 94,
+                    "student_id": 4
+                }
+            ],
+            "enrollments": [
+                {
+                    "id": 9,
+                    "title": "JavaScript 101",
+                    "end_date": "2023-01-24T17:16:27.877212+00:00",
+                    "course_id": 2,
+                    "start_date": "2022-01-24T17:16:27.877212+00:00",
                     "student_id": 4
                 }
             ]
@@ -263,6 +343,24 @@
                     "score": 90,
                     "student_id": 5
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 10,
+                    "title": "JavaScript 101",
+                    "end_date": null,
+                    "course_id": 2,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 5
+                },
+                {
+                    "id": 11,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 5
+                }
             ]
         },
         {
@@ -314,6 +412,16 @@
                 {
                     "id": 48,
                     "score": 96,
+                    "student_id": 6
+                }
+            ],
+            "enrollments": [
+                {
+                    "id": 12,
+                    "title": "Spanish 1",
+                    "end_date": null,
+                    "course_id": 1,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
                     "student_id": 6
                 }
             ]
@@ -369,6 +477,24 @@
                     "score": 85,
                     "student_id": 7
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 13,
+                    "title": "JavaScript 101",
+                    "end_date": "2024-01-22T17:16:27.877212+00:00",
+                    "course_id": 2,
+                    "start_date": "2023-10-24T17:16:27.877212+00:00",
+                    "student_id": 7
+                },
+                {
+                    "id": 14,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 7
+                }
             ]
         },
         {
@@ -420,6 +546,24 @@
                 {
                     "id": 64,
                     "score": 85,
+                    "student_id": 8
+                }
+            ],
+            "enrollments": [
+                {
+                    "id": 15,
+                    "title": "Spanish 1",
+                    "end_date": "2024-01-22T17:16:27.877212+00:00",
+                    "course_id": 1,
+                    "start_date": "2023-10-24T17:16:27.877212+00:00",
+                    "student_id": 8
+                },
+                {
+                    "id": 16,
+                    "title": "JavaScript 101",
+                    "end_date": null,
+                    "course_id": 2,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
                     "student_id": 8
                 }
             ]
@@ -475,6 +619,32 @@
                     "score": 92,
                     "student_id": 9
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 17,
+                    "title": "Spanish 1",
+                    "end_date": null,
+                    "course_id": 1,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 9
+                },
+                {
+                    "id": 18,
+                    "title": "JavaScript 101",
+                    "end_date": null,
+                    "course_id": 2,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 9
+                },
+                {
+                    "id": 19,
+                    "title": "N&W Accelerator",
+                    "end_date": "2023-01-24T17:16:27.877212+00:00",
+                    "course_id": 3,
+                    "start_date": "2022-01-24T17:16:27.877212+00:00",
+                    "student_id": 9
+                }
             ]
         },
         {
@@ -526,6 +696,32 @@
                 {
                     "id": 80,
                     "score": 76,
+                    "student_id": 10
+                }
+            ],
+            "enrollments": [
+                {
+                    "id": 20,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 10
+                },
+                {
+                    "id": 21,
+                    "title": "JavaScript 101",
+                    "end_date": null,
+                    "course_id": 2,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 10
+                },
+                {
+                    "id": 22,
+                    "title": "Spanish 1",
+                    "end_date": "2022-01-24T17:16:27.877212+00:00",
+                    "course_id": 1,
+                    "start_date": "2021-01-24T17:16:27.877212+00:00",
                     "student_id": 10
                 }
             ]
@@ -581,6 +777,24 @@
                     "score": 81,
                     "student_id": 11
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 23,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 11
+                },
+                {
+                    "id": 24,
+                    "title": "JavaScript 101",
+                    "end_date": "2024-01-10T17:16:27.877212+00:00",
+                    "course_id": 2,
+                    "start_date": "2023-07-24T17:16:27.877212+00:00",
+                    "student_id": 11
+                }
             ]
         },
         {
@@ -632,6 +846,24 @@
                 {
                     "id": 96,
                     "score": 71,
+                    "student_id": 12
+                }
+            ],
+            "enrollments": [
+                {
+                    "id": 25,
+                    "title": "Spanish 1",
+                    "end_date": "2023-01-24T17:16:27.877212+00:00",
+                    "course_id": 1,
+                    "start_date": "2022-01-24T17:16:27.877212+00:00",
+                    "student_id": 12
+                },
+                {
+                    "id": 26,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
                     "student_id": 12
                 }
             ]
@@ -687,6 +919,16 @@
                     "score": 97,
                     "student_id": 13
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 27,
+                    "title": "JavaScript 101",
+                    "end_date": null,
+                    "course_id": 2,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 13
+                }
             ]
         },
         {
@@ -738,6 +980,16 @@
                 {
                     "id": 112,
                     "score": 86,
+                    "student_id": 14
+                }
+            ],
+            "enrollments": [
+                {
+                    "id": 28,
+                    "title": "Spanish 1",
+                    "end_date": null,
+                    "course_id": 1,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
                     "student_id": 14
                 }
             ]
@@ -793,6 +1045,24 @@
                     "score": 99,
                     "student_id": 15
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 29,
+                    "title": "JavaScript 101",
+                    "end_date": "2024-01-22T17:16:27.877212+00:00",
+                    "course_id": 2,
+                    "start_date": "2023-10-24T17:16:27.877212+00:00",
+                    "student_id": 15
+                },
+                {
+                    "id": 30,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 15
+                }
             ]
         },
         {
@@ -844,6 +1114,24 @@
                 {
                     "id": 128,
                     "score": 86,
+                    "student_id": 16
+                }
+            ],
+            "enrollments": [
+                {
+                    "id": 31,
+                    "title": "N&W Accelerator",
+                    "end_date": "2024-01-22T17:16:27.877212+00:00",
+                    "course_id": 3,
+                    "start_date": "2023-10-24T17:16:27.877212+00:00",
+                    "student_id": 16
+                },
+                {
+                    "id": 32,
+                    "title": "Spanish 1",
+                    "end_date": null,
+                    "course_id": 1,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
                     "student_id": 16
                 }
             ]
@@ -899,6 +1187,24 @@
                     "score": 84,
                     "student_id": 17
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 33,
+                    "title": "JavaScript 101",
+                    "end_date": "2024-01-22T17:16:27.877212+00:00",
+                    "course_id": 2,
+                    "start_date": "2023-10-24T17:16:27.877212+00:00",
+                    "student_id": 17
+                },
+                {
+                    "id": 34,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 17
+                }
             ]
         },
         {
@@ -950,6 +1256,24 @@
                 {
                     "id": 144,
                     "score": 73,
+                    "student_id": 18
+                }
+            ],
+            "enrollments": [
+                {
+                    "id": 35,
+                    "title": "Spanish 1",
+                    "end_date": "2024-01-22T17:16:27.877212+00:00",
+                    "course_id": 1,
+                    "start_date": "2023-10-24T17:16:27.877212+00:00",
+                    "student_id": 18
+                },
+                {
+                    "id": 36,
+                    "title": "JavaScript 101",
+                    "end_date": null,
+                    "course_id": 2,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
                     "student_id": 18
                 }
             ]
@@ -1005,6 +1329,32 @@
                     "score": 87,
                     "student_id": 19
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 37,
+                    "title": "Spanish 1",
+                    "end_date": null,
+                    "course_id": 1,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 19
+                },
+                {
+                    "id": 38,
+                    "title": "JavaScript 101",
+                    "end_date": null,
+                    "course_id": 2,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 19
+                },
+                {
+                    "id": 39,
+                    "title": "N&W Accelerator",
+                    "end_date": "2023-01-24T17:16:27.877212+00:00",
+                    "course_id": 3,
+                    "start_date": "2022-01-24T17:16:27.877212+00:00",
+                    "student_id": 19
+                }
             ]
         },
         {
@@ -1056,6 +1406,32 @@
                 {
                     "id": 160,
                     "score": 79,
+                    "student_id": 20
+                }
+            ],
+            "enrollments": [
+                {
+                    "id": 40,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 20
+                },
+                {
+                    "id": 41,
+                    "title": "JavaScript 101",
+                    "end_date": null,
+                    "course_id": 2,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 20
+                },
+                {
+                    "id": 42,
+                    "title": "Spanish 1",
+                    "end_date": "2022-01-24T17:16:27.877212+00:00",
+                    "course_id": 1,
+                    "start_date": "2021-01-24T17:16:27.877212+00:00",
                     "student_id": 20
                 }
             ]
@@ -1111,6 +1487,24 @@
                     "score": 87,
                     "student_id": 21
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 43,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 21
+                },
+                {
+                    "id": 44,
+                    "title": "JavaScript 101",
+                    "end_date": "2024-01-10T17:16:27.877212+00:00",
+                    "course_id": 2,
+                    "start_date": "2023-07-24T17:16:27.877212+00:00",
+                    "student_id": 21
+                }
             ]
         },
         {
@@ -1162,6 +1556,24 @@
                 {
                     "id": 176,
                     "score": 73,
+                    "student_id": 22
+                }
+            ],
+            "enrollments": [
+                {
+                    "id": 45,
+                    "title": "Spanish 1",
+                    "end_date": "2023-01-24T17:16:27.877212+00:00",
+                    "course_id": 1,
+                    "start_date": "2022-01-24T17:16:27.877212+00:00",
+                    "student_id": 22
+                },
+                {
+                    "id": 46,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
                     "student_id": 22
                 }
             ]
@@ -1217,6 +1629,16 @@
                     "score": 88,
                     "student_id": 23
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 47,
+                    "title": "JavaScript 101",
+                    "end_date": null,
+                    "course_id": 2,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 23
+                }
             ]
         },
         {
@@ -1270,6 +1692,16 @@
                     "score": 75,
                     "student_id": 24
                 }
+            ],
+            "enrollments": [
+                {
+                    "id": 48,
+                    "title": "Spanish 1",
+                    "end_date": null,
+                    "course_id": 1,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
+                    "student_id": 24
+                }
             ]
         },
         {
@@ -1321,6 +1753,24 @@
                 {
                     "id": 200,
                     "score": 75,
+                    "student_id": 25
+                }
+            ],
+            "enrollments": [
+                {
+                    "id": 49,
+                    "title": "JavaScript 101",
+                    "end_date": "2024-01-22T17:16:27.877212+00:00",
+                    "course_id": 2,
+                    "start_date": "2023-10-24T17:16:27.877212+00:00",
+                    "student_id": 25
+                },
+                {
+                    "id": 50,
+                    "title": "N&W Accelerator",
+                    "end_date": null,
+                    "course_id": 3,
+                    "start_date": "2024-01-24T17:16:27.877212+00:00",
                     "student_id": 25
                 }
             ]
