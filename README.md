@@ -1,6 +1,12 @@
 # Student App Backend FULL implementation
 
-# Local setup
+First do the [setup](#setup).
+
+When this is done, go to the [project instructions README](instructions.md) and begin working on the requirements.
+
+This README also has information on the [routes currently implemented](#routes) in the API.
+
+## <a id="setup"></a> Local setup
 1. Clone this repo to your computer
 1. `cd student-app-backend-full`
 1. Install dependencies: `npm install`
