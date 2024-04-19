@@ -1,7 +1,6 @@
 const db = require('../db');
 
 const getAllStudents = async () => {
-  console.log('getAllStudents');
   return db.any(`
   SELECT 
 	   students.*,
